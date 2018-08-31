@@ -18,7 +18,7 @@ container
 }
 
 .container {
-  background: url("./images/google.png");
+  background: url("./assets/images/google.png");
   background-size: cover;
   background-position: center center;
   position: absolute;
@@ -94,7 +94,7 @@ container2
 }
 
 .container2 {
-  background: url("./images/facebook.png");
+  background: url("./assets/images/facebook.png");
   background-size: cover;
   background-position: center center;
   position: absolute;
@@ -170,7 +170,7 @@ container3
 }
 
 .container3 {
-  background: url("./images/twitter.png");
+  background: url("./assets/images/twitter.png");
   background-size: cover;
   background-position: center center;
   position: absolute;
@@ -246,7 +246,7 @@ container4
 }
 
 .container4 {
-  background: url("./images/instagram.png");
+  background: url("./assets/images/instagram.png");
   background-size: cover;
   background-position: center center;
   position: absolute;
@@ -322,7 +322,7 @@ container5
 }
 
 .container5 {
-  background: url("./images/youtube.png");
+  background: url("./assets/images/youtube.png");
   background-size: cover;
   background-position: center center;
   position: absolute;
@@ -398,7 +398,7 @@ container6
 }
 
 .container6 {
-  background: url("./images/naver.png");
+  background: url("./assets/images/naver.png");
   background-size: cover;
   background-position: center center;
   position: absolute;
@@ -474,7 +474,7 @@ container7
 }
 
 .container7 {
-  background: url("./images/daum.png");
+  background: url("./assets/images/daum.png");
   background-size: cover;
   background-position: center center;
   position: absolute;
