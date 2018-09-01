@@ -6,9 +6,9 @@
   font-family: NanumSquare;
   src: local(NanumSquareR),
        local(NanumSquare),
-       url(./fonts/NanumSquare/NanumSquareR.eot?#iefix) format('embedded-opentype'),
-       url(./fonts/NanunSquare/NanumSquareR.woff) format('woff'),
-       url(./fonts/NanumSquare/NanumSquareR.ttf) format('truetype');
+       url(./assets/NanumSquare/NanumSquareR.eot?#iefix) format('embedded-opentype'),
+       url(./assets/NanunSquare/NanumSquareR.woff) format('woff'),
+       url(./assets/NanumSquare/NanumSquareR.ttf) format('truetype');
   font-style: normal;
   font-weight: normal;
 }
