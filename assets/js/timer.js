@@ -17,7 +17,7 @@ var x = setInterval(function() {
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
   // Display the result in the element with id="demo"
-  document.getElementById("sat").innerHTML = "수능까지 " + days + "일 " + hours + "시간 "
+  document.getElementById("sat").innerHTML = "수능 시작까지 " + days + "일 " + hours + "시간 "
   + minutes + "분 " + seconds + "초. ";
 
   // If the count down is finished, write some text 
