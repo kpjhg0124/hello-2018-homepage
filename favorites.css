@@ -94,7 +94,7 @@ container2
 }
 
 .container2 {
-  background: url("./assets/images/facebook.png");
+  background: url("./assets/images/naver.png");
   background-size: cover;
   background-position: center center;
   position: absolute;
@@ -143,7 +143,7 @@ container2
   font-size: 15px;
   position: absolute;
   margin: auto;
-  margin-left: 18px;
+  margin-left: 32px;
   width: 200px;
   height: 30px;
   line-height: 30px;
@@ -170,7 +170,7 @@ container3
 }
 
 .container3 {
-  background: url("./assets/images/twitter.png");
+  background: url("./assets/images/ebsi.png");
   background-size: cover;
   background-position: center center;
   position: absolute;
@@ -219,7 +219,7 @@ container3
   font-size: 15px;
   position: absolute;
   margin: auto;
-  margin-left: 25px;
+  margin-left: 35px;
   width: 200px;
   height: 30px;
   line-height: 30px;
@@ -246,7 +246,7 @@ container4
 }
 
 .container4 {
-  background: url("./assets/images/instagram.png");
+  background: url("./assets/images/daesung.png");
   background-size: cover;
   background-position: center center;
   position: absolute;
@@ -322,7 +322,7 @@ container5
 }
 
 .container5 {
-  background: url("./assets/images/youtube.png");
+  background: url("./assets/images/megstudy.png");
   background-size: cover;
   background-position: center center;
   position: absolute;
@@ -371,7 +371,7 @@ container5
   font-size: 15px;
   position: absolute;
   margin: auto;
-  margin-left: 22px;
+  margin-left: 13px;
   width: 200px;
   height: 30px;
   line-height: 30px;
@@ -398,7 +398,7 @@ container6
 }
 
 .container6 {
-  background: url("./assets/images/naver.png");
+  background: url("./assets/images/skyedu.png");
   background-size: cover;
   background-position: center center;
   position: absolute;
@@ -447,7 +447,7 @@ container6
   font-size: 15px;
   position: absolute;
   margin: auto;
-  margin-left: 30px;
+  margin-left: 22px;
   width: 200px;
   height: 30px;
   line-height: 30px;
@@ -474,7 +474,7 @@ container7
 }
 
 .container7 {
-  background: url("./assets/images/daum.png");
+  background: url("./assets/images/etoos.png");
   background-size: cover;
   background-position: center center;
   position: absolute;
@@ -523,7 +523,7 @@ container7
   font-size: 15px;
   position: absolute;
   margin: auto;
-  margin-left: 32px;
+  margin-left: 26px;
   width: 200px;
   height: 30px;
   line-height: 30px;
