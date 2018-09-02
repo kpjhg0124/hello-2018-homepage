@@ -2,7 +2,7 @@
 학교 기숙사 컴퓨터 시작페이지로 지정하기 위해 제작하기 시작했으며, [Hello 2018](https://github.com/Juneyoung-Kang/hello-2018-homepage)을 수정하여 만들어졌습니다.
 
 ### Hello 2019 SAT for universal browser
-[.demo](./assets/images/demo.png)
+![demo](./assets/images/demo.png)
 
 ### Webpage
 [demo](https://kpjhg0124.github.io/hello-2019-sat/)
