@@ -10,6 +10,9 @@
 ### Features
 - 수능 카운터
 
+### Hello 2019 SAT Editor
+Park, Jonghyeon <me@ho9.me>
+
 ### Hello 2018 Contributor
 @ByeongminBae <byeongmin0322@gmail.com> >> Code review <br>
 @JunhoYeo >> Issue (#1) <br>
@@ -19,6 +22,3 @@
 
 ### Hello 2018 Developer
 Juneyoung KANG <juneyoung_kang@outlook.com>
-
-### Hello 2019 SAT Editor
-Park, Jonghyeon <me@ho9.me>
