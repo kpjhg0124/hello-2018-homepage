@@ -23,6 +23,6 @@ var x = setInterval(function() {
   // If the count down is finished, write some text 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("sat").innerHTML = "EXPIRED";
+    document.getElementById("sat").innerHTML = "이미 너는 최고야 :)";
   }
 }, 1000);
