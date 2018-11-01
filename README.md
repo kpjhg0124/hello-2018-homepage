@@ -9,6 +9,8 @@
 
 ### Features
 - 수능 카운터
+- 검색
+- 포털사이트 및 인강사이트 
 
 ### Hello 2019 SAT Editor
 Park, Jonghyeon <me@ho9.me>
